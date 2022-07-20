@@ -11,7 +11,6 @@
     },
     "scripts": {
         "start": "node index.js",
-        "mongo": "node . --db 'mongodb+srv://RndyCok:LimitZ071@dbrndy.kagva.mongodb.net/?retryWrites=true&w=majority'",
         "test": "node test.js",
         "test2": "nodemon index.js"
     },
